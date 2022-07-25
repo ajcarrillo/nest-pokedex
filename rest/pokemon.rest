@@ -20,3 +20,6 @@ Content-Type: application/json
   "no": 4,
   "name": "charmander"
 }
+
+###
+DELETE http://localhost:3000/api/pokemon/62de3f782d71949ce2d0a753
